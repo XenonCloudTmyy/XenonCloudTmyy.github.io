@@ -1,9 +1,14 @@
 # Site settings
 title: Tmyy’s Blog
 SEOTitle: 天命幽云的个人博客 | Tmyy’s Blog
-header-img: icon.png
+header-img: /icon.png
 email: mzxtiamy@gmail.com	
 description: "天命幽云的个人博客"
 keyword: "天命幽云, tmyy, Tmyy, TMYY, XC1oud, XenonCloud, Blog, 博客"
 url: "https://xenoncloudtmyy.github.io"
 baseurl: ""
+
+# Sidebar settings
+sidebar: true
+sidebar-about-description: "全世界最牛逼的人😎"
+sidebar-avatar:/icon.png
