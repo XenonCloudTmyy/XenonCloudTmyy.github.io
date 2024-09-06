@@ -11,4 +11,4 @@ baseurl: ""
 # Sidebar settings
 sidebar: true
 sidebar-about-description: "全世界最牛逼的人😎"
-sidebar-avatar:/icon.png
+sidebar-avatar: /icon.png
